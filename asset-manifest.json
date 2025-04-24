@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curso_interativo_Manus/static/css/main.d31b9cc6.css",
+    "main.js": "/curso_interativo_Manus/static/js/main.f31421de.js",
+    "static/js/453.cb9b0fda.chunk.js": "/curso_interativo_Manus/static/js/453.cb9b0fda.chunk.js",
+    "index.html": "/curso_interativo_Manus/index.html",
+    "main.d31b9cc6.css.map": "/curso_interativo_Manus/static/css/main.d31b9cc6.css.map",
+    "main.f31421de.js.map": "/curso_interativo_Manus/static/js/main.f31421de.js.map",
+    "453.cb9b0fda.chunk.js.map": "/curso_interativo_Manus/static/js/453.cb9b0fda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d31b9cc6.css",
+    "static/js/main.f31421de.js"
+  ]
+}
