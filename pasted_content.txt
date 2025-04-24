@@ -1,0 +1,39 @@
+ Prompt para o Manus – Criação de Curso Interativo em Site Estilo Netflix com Base na Documentação do Manus
+
+Crie um curso completo em português sobre o sistema Manus, baseado na documentação oficial disponível em:
+https://github.com/hodorwang/manus-guide
+
+🧩 Execute a tarefa em múltiplas etapas bem definidas, com foco na experiência do usuário e navegabilidade:
+
+Análise Profunda da Documentação:
+
+Extraia os conceitos-chave, arquitetura, funcionalidades principais, modos de uso e diferenciais do Manus.
+
+Estruturação do Curso:
+
+Divida o conteúdo em módulos e aulas com progressão lógica (do básico ao avançado).
+
+Para cada aula, crie: título, descrição, objetivos de aprendizagem e conteúdo didático (textos, exemplos e atividades sugeridas).
+
+Criação do Front-End do Curso como Website Navegável:
+
+Use design minimalista no estilo Apple: fontes limpas, bastante espaçamento, cores suaves e responsividade.
+
+Adote o estilo visual da Netflix para a organização das aulas:
+
+Barra lateral à esquerda com a lista de módulos e aulas.
+
+Interface com foco em imersão e fluidez.
+
+Cada aula deve ser desbloqueada apenas após a conclusão da anterior (navegação progressiva).
+
+Desenvolvimento do Website (Output Esperado):
+
+Gere código-fonte completo do site em React com TailwindCSS (ou similar).
+
+Inclua sistema de progresso por usuário (simulado ou real).
+
+Exporte o conteúdo do curso diretamente como parte do código do front-end.
+
+🎯 Resultado Esperado:
+Um site moderno e responsivo, navegável, com experiência de aprendizado fluida e visual premium. O curso deve estar totalmente em português, acessível a iniciantes e útil para perfis técnicos intermediários. A estética deve equilibrar simplicidade e sofisticação, refletindo o estilo da Apple e a experiência visual envolvente da Netflix.
